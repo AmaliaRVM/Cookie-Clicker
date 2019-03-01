@@ -1,5 +1,7 @@
 # JS-Cookie-Clicker
 
+Work in progress/ not finished
+
 JS-Cookie-Clicker is a teamwork project application based on JavaScript developed within the BeCode training.  
 
 Here is an example of [Cookie Clicker](http://orteil.dashnet.org/cookieclicker/) application.
